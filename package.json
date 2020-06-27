@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "form.html",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishivam/bootstrap.git"
+  },
+  "author": "Shivam Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishivam/bootstrap/issues"
+  },
+  "homepage": "https://github.com/mishivam/bootstrap#readme"
+}
